@@ -9,9 +9,10 @@
 11388 - GCD LCM
 11172 - Relational Operator
 151 - Power Crisis
-231 - Testing the Catcher
+231 - Testing the CATCHER
 299 - Train Swapping
 374 - Big Mod
+441 - Lotto
 579 - ClockHands
 637 - Booklet Printing
 793 - Network Connections
