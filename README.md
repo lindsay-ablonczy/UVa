@@ -1,12 +1,14 @@
 - 10041: Vito's Family
 - 10055: Hashmat the brave warrior
 - 101: The Blocks Problem
+- 10054: The Necklace
 - 10189: Minesweeper
 - 10203: Snow Clearing
 - 10420: List of Conquests
 - 10487: Closest Sums
 - 10696: f91
 - 10812: Beat the Spread!
+- 11057: Exact Sum
 - 11172: Relational Operator
 - 11388: GCD LCM
 - 11498: Division of Nlogonia
