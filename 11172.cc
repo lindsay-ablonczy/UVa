@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// please work
 int main(){
    int tries;
    cin >> tries;
