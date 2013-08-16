@@ -1,11 +1,14 @@
+29 files
 - 10041: Vito's Family
 - 10055: Hashmat the brave warrior
-- 101: The Blocks Problem
 - 10054: The Necklace
+- 101: The Blocks Problem
+- 10107: What is the Median?
 - 10189: Minesweeper
 - 10203: Snow Clearing
 - 10420: List of Conquests
 - 10487: Closest Sums
+- 10491: Cows and Cars
 - 10696: f91
 - 10812: Beat the Spread!
 - 11057: Exact Sum
@@ -19,7 +22,9 @@
 - 374: Big Mod
 - 441: Lotto
 - 579: ClockHands
+- 584: Bowling
 - 637: Booklet Printing
+- 644: Immediate Decodablility
 - 793: Network Connections
 - 821: Page Hopping
 - 855: Lunch in Grid City
