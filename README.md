@@ -1,4 +1,4 @@
-29 files
+30 files
 - 10041: Vito's Family
 - 10055: Hashmat the brave warrior
 - 10054: The Necklace
@@ -21,6 +21,7 @@
 - 299: Train Swapping
 - 374: Big Mod
 - 441: Lotto
+- 489: Hangman Judge
 - 579: ClockHands
 - 584: Bowling
 - 637: Booklet Printing
