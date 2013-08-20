@@ -1,4 +1,4 @@
-32 files
+33 files
 - 10038: Jolly Jumpers
 - 10041: Vito's Family
 - 10055: Hashmat the brave warrior
@@ -24,6 +24,7 @@
 - 374: Big Mod
 - 441: Lotto
 - 489: Hangman Judge
+- 574: Sum It Up
 - 579: ClockHands
 - 584: Bowling
 - 637: Booklet Printing
