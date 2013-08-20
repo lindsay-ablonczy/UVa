@@ -1,4 +1,5 @@
-30 files
+32 files
+- 10038: Jolly Jumpers
 - 10041: Vito's Family
 - 10055: Hashmat the brave warrior
 - 10054: The Necklace
@@ -9,6 +10,7 @@
 - 10420: List of Conquests
 - 10487: Closest Sums
 - 10491: Cows and Cars
+- 10684: The jackpot
 - 10696: f91
 - 10812: Beat the Spread!
 - 11057: Exact Sum
