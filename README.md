@@ -12,6 +12,7 @@
 - 10491: Cows and Cars
 - 10684: The jackpot
 - 10696: f91
+- 10714: Ants
 - 10812: Beat the Spread!
 - 11057: Exact Sum
 - 11172: Relational Operator
@@ -24,6 +25,7 @@
 - 374: Big Mod
 - 441: Lotto
 - 489: Hangman Judge
+- 492: Pig-Latin
 - 574: Sum It Up
 - 579: ClockHands
 - 584: Bowling
