@@ -1,4 +1,5 @@
-35 files
+38 files
+- 10035: Primary Arithmetic
 - 10038: Jolly Jumpers
 - 10041: Vito's Family
 - 10055: Hashmat the brave warrior
@@ -7,6 +8,8 @@
 - 10107: What is the Median?
 - 10189: Minesweeper
 - 10203: Snow Clearing
+- 10370: Above Average
+- 10371: Time Zones
 - 10420: List of Conquests
 - 10487: Closest Sums
 - 10491: Cows and Cars
