@@ -1,4 +1,4 @@
-38 files
+40 files
 - 10035: Primary Arithmetic
 - 10038: Jolly Jumpers
 - 10041: Vito's Family
@@ -22,6 +22,8 @@
 - 11388: GCD LCM
 - 11498: Division of Nlogonia
 - 11727: Cost Cutting
+- 12764: Exercising Emoticons
+- 12756: Factorial Products
 - 151: Power Crisis
 - 231: Testing the CATCHER
 - 299: Train Swapping
